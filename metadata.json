@@ -1,0 +1,7 @@
+{
+  "name": "Chinese New Year Interactive Greeting",
+  "description": "An interactive Chinese New Year greeting app that uses hand gesture recognition to transform a sparkling snow house into a running unicorn with festive blessings.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
